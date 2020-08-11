@@ -1,0 +1,14 @@
+{
+    "venue": "Zoo",
+    "rooms": ["Penguin"],
+    "status": "success"
+}
+{"status": "rejected"}
+[{
+"reservations": [{
+    "start": "2019-03-25",
+    "end": "2019-03-26",
+    "id": "Annual Meeting"
+}],
+"room": "Penguin"
+}]

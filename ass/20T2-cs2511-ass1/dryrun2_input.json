@@ -1,0 +1,4 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "request", "id": "Dance Party", "start": "2019-03-26", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "change", "id": "Dance Party", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "Zoo" }

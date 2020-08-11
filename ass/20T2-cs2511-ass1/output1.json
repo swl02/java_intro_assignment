@@ -1,0 +1,27 @@
+{
+    "venue": "Zoo",
+    "rooms": ["Penguin"],
+    "status": "success"
+}
+{"status": "rejected"}
+{
+"venue": "Zoo",
+"rooms": ["Penguin"],
+"status": "success"
+}
+{"status": "rejected"}
+[{
+"reservations": [
+    {
+    "start": "2019-03-26",
+    "end": "2019-03-26",
+    "id": "Dance Party"
+    },
+    {
+    "start": "2019-03-27",
+    "end": "2019-03-28",
+    "id": "HAHA"
+    }
+],
+"room": "Penguin"
+}]
